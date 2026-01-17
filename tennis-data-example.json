@@ -1,37 +1,37 @@
 {
   "widget1": {
     "header": "ITF TOURNAMENT",
-    "tournament": "PARIS M25",
+    "tournament": "J60 ARLON",
     "matches": [
       {
-        "player1": "PAULA BADOSA",
-        "player2": "ARTHUR FILS",
-        "score1": ["6", "7", "-"],
-        "score2": ["4", "5", "-"]
+        "player1": "NICOLAS FAYS",
+        "player2": "IVON JOVANOVIC",
+        "score1": ["6", "6", "-"],
+        "score2": ["4", "4", "-"]
       }
     ]
   },
   "widget2": {
-    "header": "CHALLENGER",
-    "tournament": "NEWPORT BEACH",
+    "header": "ITF TOURNAMENT",
+    "tournament": "J100 BROMMA",
     "matches": [
       {
-        "player1": "LEARNER TIEN",
-        "player2": "ALEX MICHELSEN",
-        "score1": ["6", "3", "6"],
-        "score2": ["4", "6", "4"]
+        "player1": "ELIZAVETA ANIKINA",
+        "player2": "LIA BELIBOVA",
+        "score1": ["6", "6", "-"],
+        "score2": ["0", "3", "-"]
       }
     ]
   },
   "widget3": {
-    "header": "CHALLENGER",
-    "tournament": "NEWPORT BEACH",
+    "header": "ITF TOURNAMENT",
+    "tournament": "J100 FUJAIRAH",
     "matches": [
       {
-        "player1": "LEARNER TIEN",
-        "player2": "ALEX MICHELSEN",
-        "score1": ["6", "3", "6"],
-        "score2": ["4", "6", "4"]
+        "player1": "GABRIEL JALOUNEIX",
+        "player2": "OLLIE KNIGHT",
+        "score1": ["6", "6", "-"],
+        "score2": ["3", "2", "-"]
       }
     ]
   },
