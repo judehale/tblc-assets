@@ -38,7 +38,7 @@
   "widget4": {
     "type": "audio",
     "header": "NOW PLAYING",
-    "title": "PODCAST EPISODE 1",
+    "title": "LONG RALLY",
     "url": "https://raw.githubusercontent.com/judehale/tblc-assets/main/Long_rally_music.MP3",
     "description": "Latest episode"
   }
