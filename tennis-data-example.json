@@ -24,15 +24,10 @@
     ]
   },
   "widget3": {
-    "header": "ITF TOURNAMENT",
-    "tournament": "BARCELONA M15",
-    "matches": [
-      {
-        "player1": "MARTIN LANDALUCE",
-        "player2": "LUCA VAN ASSCHE",
-        "score1": ["6", "6", "-"],
-        "score2": ["3", "4", "-"]
-      }
-    ]
+    "type": "audio",
+    "header": "NOW PLAYING",
+    "title": "PODCAST EPISODE 1",
+    "url": "https://tuservidor.com/audio.mp3",
+    "description": "Latest episode"
   }
 }
