@@ -24,6 +24,18 @@
     ]
   },
   "widget3": {
+    "header": "CHALLENGER",
+    "tournament": "NEWPORT BEACH",
+    "matches": [
+      {
+        "player1": "LEARNER TIEN",
+        "player2": "ALEX MICHELSEN",
+        "score1": ["6", "3", "6"],
+        "score2": ["4", "6", "4"]
+      }
+    ]
+  },
+  "widget4": {
     "type": "audio",
     "header": "NOW PLAYING",
     "title": "PODCAST EPISODE 1",
