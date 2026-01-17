@@ -22,5 +22,17 @@
         "score2": ["4", "6", "4"]
       }
     ]
+  },
+  "widget3": {
+    "header": "ITF TOURNAMENT",
+    "tournament": "BARCELONA M15",
+    "matches": [
+      {
+        "player1": "MARTIN LANDALUCE",
+        "player2": "LUCA VAN ASSCHE",
+        "score1": ["6", "6", "-"],
+        "score2": ["3", "4", "-"]
+      }
+    ]
   }
 }
