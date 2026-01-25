@@ -1,37 +1,37 @@
 {
   "widget1": {
     "header": "ITF TOURNAMENT",
-    "tournament": "J60 ARLON",
+    "tournament": "J100 TAURANGA",
     "matches": [
       {
-        "player1": "NICOLAS FAYS",
-        "player2": "IVON JOVANOVIC",
+        "player1": "MINAMI SUZUKI",
+        "player2": "ANGEL WARANG",
         "score1": ["6", "6", "-"],
-        "score2": ["4", "4", "-"]
+        "score2": ["2", "1", "-"]
       }
     ]
   },
   "widget2": {
     "header": "ITF TOURNAMENT",
-    "tournament": "J100 BROMMA",
+    "tournament": "J200 MARSA",
     "matches": [
       {
-        "player1": "ELIZAVETA ANIKINA",
-        "player2": "LIA BELIBOVA",
-        "score1": ["6", "6", "-"],
-        "score2": ["0", "3", "-"]
+        "player1": "EMILY VICTORIA",
+        "player2": "PAOLA PINERA",
+        "score1": ["4", "5", "-"],
+        "score2": ["2", "3", "-"]
       }
     ]
   },
   "widget3": {
     "header": "ITF TOURNAMENT",
-    "tournament": "J100 FUJAIRAH",
+    "tournament": "J60 OBERPULLENDORF",
     "matches": [
       {
-        "player1": "GABRIEL JALOUNEIX",
-        "player2": "OLLIE KNIGHT",
-        "score1": ["6", "6", "-"],
-        "score2": ["3", "2", "-"]
+        "player1": "GRETA NEMCSEK",
+        "player2": "ELIZAVETA NALESNIK",
+        "score1": ["7", "6", "-"],
+        "score2": ["5", "1", "-"]
       }
     ]
   },
