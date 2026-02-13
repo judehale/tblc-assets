@@ -1,37 +1,37 @@
 {
   "widget1": {
     "header": "ITF TOURNAMENT",
-    "tournament": "J30 ISMAILIA",
+    "tournament": "AUSTRALIA OPEN JUNIOR",
     "matches": [
       {
-        "player1": "MARCO MEACCI",
-        "player2": "HASSAN SHOAIB",
-        "score1": ["6", "4", "6"],
-        "score2": ["1", "6", "0"]
+        "player1": "ZIGA SESKO",
+        "player2": "KEATON HANCE",
+        "score1": ["4", "6", "6"],
+        "score2": ["6", "3", "4"]
       }
     ]
   },
   "widget2": {
     "header": "ITF TOURNAMENT",
-    "tournament": "J300 TRARALGON",
+    "tournament": "J30 BAD WALTERSDORF",
     "matches": [
       {
-        "player1": "LUIS GUTO",
-        "player2": "KUAN-SHOU CHEN",
+        "player1": "VALENTIN KLAUNZNER",
+        "player2": "MATYAS PERUTKA",
         "score1": ["6", "6", "-"],
-        "score2": ["1", "2", "-"]
+        "score2": ["3", "3", "-"]
       }
     ]
   },
   "widget3": {
     "header": "ITF TOURNAMENT",
-    "tournament": "J30 PUNTA DEL ESTE",
+    "tournament": "J100 MANACOR",
     "matches": [
       {
-        "player1": "GASTON LOPEZ",
-        "player2": "ANDRE BRUNO",
-        "score1": ["4", "7", "6"],
-        "score2": ["6", "6", "0"]
+        "player1": "SVIT SULJIC",
+        "player2": "MATEI VICTOR",
+        "score1": ["6", "3", "6"],
+        "score2": ["4", "6", "3"]
       }
     ]
   },
