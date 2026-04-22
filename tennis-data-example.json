@@ -1,37 +1,37 @@
 {
   "widget1": {
     "header": "ITF TOURNAMENT",
-    "tournament": "AUSTRALIA OPEN JUNIOR",
+    "tournament": "J30 LA PAZ",
     "matches": [
       {
-        "player1": "ZIGA SESKO",
-        "player2": "KEATON HANCE",
-        "score1": ["4", "6", "6"],
-        "score2": ["6", "3", "4"]
+        "player1": "NICOLAS CIANCAGLINI",
+        "player2": "MADDOX BOGOMOLOV",
+        "score1": ["7", "6", "-"],
+        "score2": ["5", "1", "-"]
       }
     ]
   },
   "widget2": {
     "header": "ITF TOURNAMENT",
-    "tournament": "J30 BAD WALTERSDORF",
+    "tournament": "J300 CAIRO",
     "matches": [
       {
-        "player1": "VALENTIN KLAUNZNER",
-        "player2": "MATYAS PERUTKA",
+        "player1": "DIMITAR KISIMOV",
+        "player2": "TITO CHAVEZ",
         "score1": ["6", "6", "-"],
-        "score2": ["3", "3", "-"]
+        "score2": ["1", "4", "-"]
       }
     ]
   },
   "widget3": {
     "header": "ITF TOURNAMENT",
-    "tournament": "J100 MANACOR",
+    "tournament": "J30 REUS",
     "matches": [
       {
-        "player1": "SVIT SULJIC",
-        "player2": "MATEI VICTOR",
-        "score1": ["6", "3", "6"],
-        "score2": ["4", "6", "3"]
+        "player1": "LUISA MARIA OPRESCU",
+        "player2": "ISAURE BRUSCIA",
+        "score1": ["6", "6", "-"],
+        "score2": ["2", "4", "-"]
       }
     ]
   },
